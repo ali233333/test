@@ -22,4 +22,10 @@ module din_flow#(
     inf_axis.if_axis_m      axis_m              
 
 );
+
+
+logic    [3:0]  test0     ;
+logic    [3:0]  test1     ;
+logic    [3:0]  test2     ;
+
 endmodule
